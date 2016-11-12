@@ -50,5 +50,9 @@ span {
 }
 
 .pages {
-  margin-top: 300px;
+  margin-top: 350px;
+}
+
+.last {
+  margin: 120px;
 }
