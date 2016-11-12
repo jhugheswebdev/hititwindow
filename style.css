@@ -1,0 +1,54 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: rgb(42, 47, 43);
+  text-align: center;
+  color: rgb(233, 228, 236)
+
+}
+
+h1 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 100px;
+  letter-spacing: 5px;
+  color: red;
+  margin-top: -10px;
+  text-shadow: 4px 0 black, 0 4px black, 4px 0 black, 0 4px black;
+
+}
+
+.pic-window {
+  max-width: 500px;
+  margin: 1px;
+}
+
+h2 {
+  font-size: 70px;
+  text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 1px black;
+}
+
+h3 {
+  font-size: 60px;
+  margin-top: -2px;
+}
+
+.eggplant-container {
+  margin: 10px;
+}
+
+span {
+  font-size: 80px;
+  margin: 2px;
+}
+
+.btn {
+  font-size: 30px;
+  margin: 5px;
+}
+
+.home {
+  margin-top: 50px;
+}
+
+.pages {
+  margin-top: 300px;
+}
